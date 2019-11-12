@@ -1,0 +1,7 @@
+to start app please run:
+
+npm install to install all the necessary node_modules,
+
+run npm start to start the app
+
+run npm test to run text file
